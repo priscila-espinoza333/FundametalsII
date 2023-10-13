@@ -1,0 +1,15 @@
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\obj\Debug\net6.0\FundametalsII.csproj.AssemblyReference.cache
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\obj\Debug\net6.0\FundametalsII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\obj\Debug\net6.0\FundametalsII.AssemblyInfoInputs.cache
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\obj\Debug\net6.0\FundametalsII.AssemblyInfo.cs
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\obj\Debug\net6.0\FundametalsII.csproj.CoreCompileInputs.cache
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\bin\Debug\net6.0\FundametalsII.exe
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\bin\Debug\net6.0\FundametalsII.deps.json
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\bin\Debug\net6.0\FundametalsII.runtimeconfig.json
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\bin\Debug\net6.0\FundametalsII.dll
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\bin\Debug\net6.0\FundametalsII.pdb
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\obj\Debug\net6.0\FundametalsII.dll
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\obj\Debug\net6.0\refint\FundametalsII.dll
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\obj\Debug\net6.0\FundametalsII.pdb
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\obj\Debug\net6.0\FundametalsII.genruntimeconfig.cache
+C:\Users\PRISCILA\OneDrive\Escritorio\codingdojo_C#.net\C#\FundametalsII\obj\Debug\net6.0\ref\FundametalsII.dll
